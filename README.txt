@@ -1,0 +1,30 @@
+the Folder should hold
+
+- assets directory
+  - css directory
+  - images directory
+  - javascript directory
+- inc directory
+- template-parts directory
+  - footer directory
+  - header directory
+  - navigation directory
+  - page directory
+  - post directory
+- 404.php
+- archive.php
+- comments.php
+- footer.php
+- front-page.php
+- functions.php
+- header.php
+- index.php
+- page.php
+- README.txt
+- rtl.css
+- screenshot.png
+- search.php
+- searhform.php
+- sidebar.php
+- single.php
+- style.css
