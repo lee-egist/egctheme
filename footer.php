@@ -1,3 +1,4 @@
-<!-- END OF THEME -->
-</body>
+      <!-- END OF THEME -->
+    wp_footer();
+  </body>
 </html>

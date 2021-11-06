@@ -1,7 +1,6 @@
 <?php
 /**
 * Erick's theme
-*
 */
 ?><!DOCTYPE html>
 <html class="no-js" <?php language_attributes(); ?>>
@@ -20,6 +19,6 @@
 
     <header class="site-header">
       <h1>
-      <a href="<?php echo home_url(); ?>"> Ericks Theme Development
+      <a href="<?php echo home_url(); ?>"> Ericks WP Theme Development
     </h1>
     </header>
