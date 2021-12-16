@@ -19,6 +19,6 @@
 
     <header class="site-header">
       <h1>
-      <a href="<?php echo home_url(); ?>"> Ericks WP Theme Development
-    </h1>
+        <a href="<?php echo home_url(); ?>"> Ericks WP Theme Development
+      </h1>
     </header>

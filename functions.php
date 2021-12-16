@@ -9,20 +9,20 @@ if( ! function_exists( 'egctheme_setup' ) ) :
 
   function egctheme_setup() {
 
-  /**
-  * Add default posts and comments RSS feed links to head
-  */
-  add_theme_support( 'automatic-feed-links' );
+    /**
+    * Add default posts and comments RSS feed links to head
+    */
+    add_theme_support( 'automatic-feed-links' );
 
-  /**
-  * Enable support for Post Thumbnails
-  */
-  add_theme_support( 'post-thumbnails' );
+    /**
+    * Enable support for Post Thumbnails
+    */
+    add_theme_support( 'post-thumbnails' );
 
-  /**
-  * Enable support for post formats
-  */
-  add_theme_support( 'post-formats', array( 'image', 'gallery', 'video') );
+    /**
+    * Enable support for post formats
+    */
+    add_theme_support( 'post-formats', array( 'image', 'gallery', 'video') );
 
 }
 
